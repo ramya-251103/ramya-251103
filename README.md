@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ramya Mishra B.Tech student at Banasthali Vidyapith majoring in Electronics and Communication
+- 👋 Hi, I’m Ramya Mishra B.Tech'26 student at Banasthali Vidyapith majoring in Electronics and Communication
 - 👀 I’m interested in both Frontend and Backend Development
 - 🌱 I’m currently learning Data Structures and Algorithms, Web Development and VLSI
 - 💞️ I’m looking to collaborate on Development Projects
